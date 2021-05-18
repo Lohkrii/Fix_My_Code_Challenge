@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """ Instantiates a square class object """
+
+
 class square():
     """ Is the class in question """
     width = 0
